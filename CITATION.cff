@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using these metadata.
+title: PredatorPreyModel
+version: 1.0.0
+authors:
+  - family-names: Lee
+    given-names: Nahyeon
+  - family-names: Chae
+    given-names: Sunhee
+  - family-names: Baek
+    given-names: Seung Ki
+  - family-names: Jeong
+    given-names: Hyeong-Chai
+date-released: 2023-09-05

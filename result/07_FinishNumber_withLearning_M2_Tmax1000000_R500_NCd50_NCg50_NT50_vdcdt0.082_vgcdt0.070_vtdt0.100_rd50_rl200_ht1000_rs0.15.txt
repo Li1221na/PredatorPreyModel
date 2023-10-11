@@ -1,0 +1,4 @@
+# Number of individuals at the end of the simulation
+# col1: Simulation number, col2: Number of DCS chasers at the end of the simulation, col3: Number of GCS chasers at the end of the simulation, col4: Number of targets captured during that simulation
+0 100 0 107
+1 0 100 404

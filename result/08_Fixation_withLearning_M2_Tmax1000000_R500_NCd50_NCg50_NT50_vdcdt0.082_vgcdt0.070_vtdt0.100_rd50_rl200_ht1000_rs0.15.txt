@@ -1,0 +1,4 @@
+# Information on fixation for each simulation
+# col1: Simulation number, col2: Fixation time, col3: Fixation strategy (0:DCS, 1:GCS, -1:no fixation occurred), col4: Number of targets captured up to the point of fixation
+0 516968 0 71
+1 163253 1 53
